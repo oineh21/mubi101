@@ -2,7 +2,7 @@
     body { font-family: Arial, sans-serif; background: #111; color: #fff; }
 /* Hide all scrollbars */
 body {
-  overflow: hidden;
+  overflow: yes;
 }
 
 /* Optional: hide scrollbar while still allowing scroll (if needed somewhere) */
