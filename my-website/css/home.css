@@ -7,12 +7,12 @@ body {
 
 /* Optional: hide scrollbar while still allowing scroll (if needed somewhere) */
 ::-webkit-scrollbar {
-  display: none;
+  display: yes;
 }
 
 body {
   -ms-overflow-style: yes;  /* IE and Edge */
-  scrollbar-width: yes;     /* Firefox */
+  scrollbar-width: none;     /* Firefox */
 }
     .navbar {
       display: flex; justify-content: space-between; align-items: center;
