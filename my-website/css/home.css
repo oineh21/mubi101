@@ -11,8 +11,8 @@ body {
 }
 
 body {
-  -ms-overflow-style: yes;  /* IE and Edge */
-  scrollbar-width: none;     /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: yes;     /* Firefox */
 }
     .navbar {
       display: flex; justify-content: space-between; align-items: center;
